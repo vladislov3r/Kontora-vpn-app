@@ -1,0 +1,9 @@
+{
+  "id": "",
+  "active": false,
+  "level": "info",
+  "title": "",
+  "message": "",
+  "link": "",
+  "platforms": ["windows", "android"]
+}
