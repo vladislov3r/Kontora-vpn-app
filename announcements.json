@@ -7,3 +7,5 @@
   "link": "",
   "platforms": ["windows", "android"]
 }
+
+/* поменять active на true, заполнить title и message, поменять айди */
